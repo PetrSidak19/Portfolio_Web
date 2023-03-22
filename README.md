@@ -1,2 +1,2 @@
 # Portfolio_Web
-Portfolio_Web
+Jedná se o jednu z mých prvních webových stránek. Už samotné nahrání na Github mi dělalo trošku problém, mluvím hlavně o vytvoření balíčků pro lepší přehlednost a seskupení souborů. To bude určitě jedna z prvních věcí, které chci změnit. Komentáře jsou zde čistě pro přehlednost v kódu. Určitě bych je chtěl pro příště lépe definovat. Web je mé menší portfolio s úvodní stránkou, kde naleznete i malou interakci v podobě zadání emailu, odkazů na mé sociální profily a pár informací o mně a mých dovednostech o IT. V sekci kontakt mi můžete napsat email.
